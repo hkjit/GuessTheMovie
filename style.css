@@ -1,0 +1,43 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 50px;
+}
+
+#prompt {
+	font-size: 40px;
+	margin-top: 50px;
+}
+
+
+#guesses {
+	margin-top: 20px;
+}
+
+#remainGuesses {
+	margin-top: 20px;
+}
+
+#guess-input {
+	font-size: 20px;
+	padding: 5px;
+	margin-top: 20px;
+}
+
+#guess-btn {
+	font-size: 20px;
+	padding: 5px 20px;
+	margin-top: 20px;
+}
+
+#play-again-btn {
+	font-size: 20px;
+	padding:
